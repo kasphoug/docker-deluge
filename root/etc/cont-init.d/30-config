@@ -1,7 +1,7 @@
 #!/usr/bin/with-contenv bash
 
 # permissions
-chown -R abc:abc \
+chown -R deluge:amc \
 	/config
-chown abc:abc \
+chown deluge:amc \
 	/downloads
